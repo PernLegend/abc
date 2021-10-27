@@ -1,0 +1,8 @@
+@font-face {
+    font-family: NotoSansLao-Medium;
+    src: url('/fonts/NotoSansLao-Medium.ttf');
+}
+
+*{
+    font-family: NotoSansLao-Medium;
+}
